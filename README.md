@@ -75,9 +75,9 @@ php-interview-prep/
 
 ## Tasks
 
-* [ ] Build a simple calculator
-* [ ] Practice loops and conditions
-* [ ] Create a student grading system
+* [X] ~~Build a simple calculator~~
+* [X] ~~Practice loops and conditions~~
+* [X] ~~Create a student grading system~~
 
 ## Interview Focus
 

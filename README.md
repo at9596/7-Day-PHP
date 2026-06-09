@@ -8,7 +8,7 @@ Build a strong foundation in core PHP, Object-Oriented Programming, modern PHP p
 
 # 📅 Progress Tracker
 
-* [ ] Day 1 – PHP Fundamentals
+* [x] ~~Day 1 – PHP Fundamentals~~
 * [ ] Day 2 – Functions, Arrays & String Handling
 * [ ] Day 3 – Object-Oriented Programming
 * [ ] Day 4 – Error Handling & Exception Management

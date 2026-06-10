@@ -9,7 +9,7 @@ Build a strong foundation in core PHP, Object-Oriented Programming, modern PHP p
 # 📅 Progress Tracker
 
 * [x] ~~Day 1 – PHP Fundamentals~~
-* [ ] Day 2 – Functions, Arrays & String Handling
+* [X] ~~Day 2 – Functions, Arrays & String Handling~~
 * [ ] Day 3 – Object-Oriented Programming
 * [ ] Day 4 – Error Handling & Exception Management
 * [ ] Day 5 – Database Integration with PDO
@@ -119,9 +119,9 @@ Double quotes allow variable interpolation.
 
 ## Tasks
 
-* [ ] Build utility functions
-* [ ] Solve array challenges
-* [ ] String manipulation exercises
+* [x] ~~Build utility functions~~
+* [x] ~~Solve array challenges~~
+* [x] ~~String manipulation exercises~~
 
 ## Interview Focus
 

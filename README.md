@@ -11,7 +11,7 @@ Build a strong foundation in core PHP, Object-Oriented Programming, modern PHP p
 * [x] ~~Day 1 – PHP Fundamentals~~
 * [X] ~~Day 2 – Functions, Arrays & String Handling~~
 * [x] ~~Day 3 – Object-Oriented Programming~~
-* [ ] Day 4 – Error Handling & Exception Management
+* [x] Day 4 – Error Handling & Exception Management
 * [ ] Day 5 – Database Integration with PDO
 * [ ] Day 6 – Security Best Practices
 * [ ] Day 7 – Modern PHP & Design Patterns
@@ -201,8 +201,8 @@ Abstract Class:
 
 ## Tasks
 
-* [ ] Build custom exception examples
-* [ ] Log application errors
+* [x] Build custom exception examples
+* [x] Log application errors
 
 ## Interview Focus
 

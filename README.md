@@ -229,9 +229,9 @@ Exceptions are manageable application-level problems.
 
 ## Tasks
 
-* [ ] Connect PHP with PostgreSQL/MySQL
-* [ ] Build CRUD APIs
-* [ ] Use prepared statements
+* [x] ~~Connect PHP with PostgreSQL/MySQL~~
+* [x] ~~Build CRUD APIs~~
+* [x] ~~Use prepared statements~~
 
 ## Interview Focus
 

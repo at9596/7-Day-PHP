@@ -14,7 +14,7 @@ Build a strong foundation in core PHP, Object-Oriented Programming, modern PHP p
 * [x] ~~Day 4 – Error Handling & Exception Management~~
 * [x] ~~Day 5 – Database Integration with PDO~~
 * [x] ~~Day 6 – Security Best Practices~~
-* [ ] Day 7 – Modern PHP & Design Patterns
+* [x] ~~Day 7 – Modern PHP & Design Patterns~~
 
 ---
 
@@ -306,9 +306,9 @@ because it is not secure for passwords.
 
 ## Tasks
 
-* [ ] Create Composer project
-* [ ] Implement Dependency Injection
-* [ ] Study SOLID examples
+* [x] ~~Create Composer project~~
+* [x] ~~Implement Dependency Injection~~
+* [x] ~~Study SOLID examples~~
 
 ## Interview Focus
 
@@ -332,13 +332,13 @@ A technique where dependencies are supplied from outside rather than created ins
 
 # 🏆 End-of-Challenge Deliverables
 
-* [ ] PHP Notes
-* [ ] OOP Examples
-* [ ] Exception Handling Examples
-* [ ] PDO CRUD Project
-* [ ] Security Examples
-* [ ] Composer Demo
-* [ ] SOLID Notes
+* [x] ~~PHP Notes~~
+* [x] ~~OOP Examples~~
+* [x] ~~Exception Handling Examples~~
+* [x] ~~PDO CRUD Project~~
+* [x] ~~Security Examples~~
+* [x] ~~Composer Demo~~
+* [x] ~~SOLID Notes~~
 
 ---
 
